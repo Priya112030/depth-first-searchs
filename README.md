@@ -122,7 +122,8 @@ F H <BR>
 <hr>
 
 <h3>Output:<h3>
-![alt text](image.png)
+<img width="536" height="137" alt="image" src="https://github.com/user-attachments/assets/df8cca55-77ec-4b34-92b3-36006b17c841" />
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
